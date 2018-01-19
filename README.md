@@ -1,15 +1,20 @@
 # SimpleContract
 
+INTRO
 
+How many of you has felt the sensation of lazines when you think about all the stuff you have to do in order to sign  any kind of legal agreements for offering , selling, trading, sharing, lending... anything?
 
+Timefounder was born as a research an development project of a creative funding solution for any kind of project.
 
-Timefounder was born as a research an development project of a creative funding solution (Platform/APP...) that would allow to use TIME & OTHER VALUE CONTRIBUTIONS as ASSETS and get some kind of fair reward in form of Fair Shares, Shares or Coins.
+The innvation of the project is to allow the use of any kind of assetto get Shares or the project.
+
+In timefounder every account is a project. 
+projects can have fathers.
 
 The aim of this contract if to help people to fund their projects easy managing the Fair Shares, Shares or Profit of the projest choosing the offer linked to the 
 
 
-This 3 level of ownership goes acording the the state of the project, understanding that we have 3 main moments:
-
+TRUST
 1.
 One of the main aspects that we need to cover is TRUST. In order to get this trust there several aproachs we have found Timestamping, signed mails, ethereum blockchain, own blockhain...
 
