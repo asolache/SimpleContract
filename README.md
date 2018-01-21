@@ -2,11 +2,21 @@
 
 INTRO
 
-How many of you has felt the sensation of lazines when you think about all the stuff you have to do in order to sign  any kind of legal agreements for offering , selling, trading, sharing, lending... anything?
+How many of you  feel lazy and depressed about all the legal Stuff? and his costs?
+
+The Blockchain technology has comme to reduce the cost of all that contract stuff from 1€ Basic Smart Contract.
+
+Yuu can choose to becomme a pay per use member, a foir fundation suporter or a partner of the Timefounder Coop.
+
+We have developed a first Simple Contract that allows you to send Timefounder Coins to a Receiver that may be any TImefouner adress. 
+
+We have developed several tools that helps you organize ideas , plan projects , track Coins transactions, and weekkly send the profit acording the percentaje of the pie you own.
+
+
 
 Timefounder was born as a research an development project of a creative funding solution for any kind of project.
 
-The innvation of the project is to allow the use of any kind of assetto get Shares or the project.
+The simplicity of the game is a clock that makes that from the exact moment you send the first mined coins, this means that you accept that someone has sent to you adress somme kind of ownership of the profit of the project..
 
 In timefounder every account is a project. 
 projects can have fathers.
